@@ -8,7 +8,11 @@
             "type": "java",
             "name": "Current File",
             "request": "launch",
-            "mainClass": "${file}"
+            "mainClass": "${file}",
+            "env": {
+                 "${DB_USR_NAME}": "user",
+                 "${DB_PWD}": "secret"
+            }
             
         },
         {
@@ -16,11 +20,8 @@
             "name": "JustDoItCloudApplication",
             "request": "launch",
             "mainClass": "teccr.justdoitcloud.JustDoItCloudApplication",
-            "projectName": "JustDoItCloud",
-            "env": {
-                 "${DB_USR_NAME}": "user",
-                 "${DB_PWD}": "secret"
-            }
+            "projectName": "JustDoItCloud"
+            
         }
     ]
 }
