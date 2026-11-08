@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: teccr.justdoitcloud.JustDoItCloudApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.679 s -- in teccr.justdoitcloud.JustDoItCloudApplicationTests

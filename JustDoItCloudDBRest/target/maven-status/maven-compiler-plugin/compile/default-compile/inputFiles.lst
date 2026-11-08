@@ -1,0 +1,15 @@
+C:\Users\Axel\OneDrive\Compartido\TEC\Bases de datos\Tarea\Backend\JustDoItCloudDBRest\src\main\java\teccr\justdoitcloud\api\TasksController.java
+C:\Users\Axel\OneDrive\Compartido\TEC\Bases de datos\Tarea\Backend\JustDoItCloudDBRest\src\main\java\teccr\justdoitcloud\api\UsersController.java
+C:\Users\Axel\OneDrive\Compartido\TEC\Bases de datos\Tarea\Backend\JustDoItCloudDBRest\src\main\java\teccr\justdoitcloud\config\RestTemplateConfig.java
+C:\Users\Axel\OneDrive\Compartido\TEC\Bases de datos\Tarea\Backend\JustDoItCloudDBRest\src\main\java\teccr\justdoitcloud\data\Task.java
+C:\Users\Axel\OneDrive\Compartido\TEC\Bases de datos\Tarea\Backend\JustDoItCloudDBRest\src\main\java\teccr\justdoitcloud\data\User.java
+C:\Users\Axel\OneDrive\Compartido\TEC\Bases de datos\Tarea\Backend\JustDoItCloudDBRest\src\main\java\teccr\justdoitcloud\JustDoItCloudApplication.java
+C:\Users\Axel\OneDrive\Compartido\TEC\Bases de datos\Tarea\Backend\JustDoItCloudDBRest\src\main\java\teccr\justdoitcloud\repository\JdbcTaskRepository.java
+C:\Users\Axel\OneDrive\Compartido\TEC\Bases de datos\Tarea\Backend\JustDoItCloudDBRest\src\main\java\teccr\justdoitcloud\repository\JdbcUserRepository.java
+C:\Users\Axel\OneDrive\Compartido\TEC\Bases de datos\Tarea\Backend\JustDoItCloudDBRest\src\main\java\teccr\justdoitcloud\repository\TaskRepository.java
+C:\Users\Axel\OneDrive\Compartido\TEC\Bases de datos\Tarea\Backend\JustDoItCloudDBRest\src\main\java\teccr\justdoitcloud\repository\UserRepository.java
+C:\Users\Axel\OneDrive\Compartido\TEC\Bases de datos\Tarea\Backend\JustDoItCloudDBRest\src\main\java\teccr\justdoitcloud\service\external\dto\DummyJsonTODODto.java
+C:\Users\Axel\OneDrive\Compartido\TEC\Bases de datos\Tarea\Backend\JustDoItCloudDBRest\src\main\java\teccr\justdoitcloud\service\external\taskgenerator\TaskGenerator.java
+C:\Users\Axel\OneDrive\Compartido\TEC\Bases de datos\Tarea\Backend\JustDoItCloudDBRest\src\main\java\teccr\justdoitcloud\service\external\taskgenerator\TaskGeneratorImpl.java
+C:\Users\Axel\OneDrive\Compartido\TEC\Bases de datos\Tarea\Backend\JustDoItCloudDBRest\src\main\java\teccr\justdoitcloud\service\TaskService.java
+C:\Users\Axel\OneDrive\Compartido\TEC\Bases de datos\Tarea\Backend\JustDoItCloudDBRest\src\main\java\teccr\justdoitcloud\service\UserService.java
