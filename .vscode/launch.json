@@ -10,8 +10,8 @@
             "request": "launch",
             "mainClass": "${file}",
             "env": {
-                 "${DB_USR_NAME}": "user",
-                 "${DB_PWD}": "secret"
+                "${DB_USR_NAME}": "user",
+                "${DB_PWD}": "secret"
             }
             
         },
